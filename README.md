@@ -14,8 +14,10 @@
     - [Python](#python)
       - [Python](#python-1)
     - [Web development](#web-development)
-    - [web development](#web-development-1)
       - [Live server](#live-server)
+  - [Keyboard shortcuts](#keyboard-shortcuts)
+    - [Live Share:](#live-share)
+    - [Notifications:](#notifications)
     - [getting my settings](#getting-my-settings)
       - [Downloading settings sync extension](#downloading-settings-sync-extension)
       - [Settings sync setup](#settings-sync-setup)
@@ -52,10 +54,24 @@ The python extension is the best extension for python. This extension allows VS 
 
 ### Web development
 
-### web development
-
 #### Live server
 This is an extension that can render static webpages in a browser. When you save the file, the server updates in real-time and can even be shared threw liveshare. These extensions save me time because I do not need to constantly press f5 to refresh.
+
+## Keyboard shortcuts
+I modified the following keyboard shortcuts for ease of use.
+
+###Terminal Commands:
+Toggle Integrated Terminal - CTRL + T
+Next Terminal - Alt + N
+Previous Terminal - Alt + P
+Kill Active Terminal - CTRL + Shift + K
+
+### Live Share:
+Focus Terminal - CTRL + Shift + F T
+Focus Contacts - CTRL + Shift + L I
+
+### Notifications:
+Show Notifications - CTRL + K N
 
 ### getting my settings
 If these extensions and configurations sound apealing and you want to use them, you need to go threw a few steps.
