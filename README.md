@@ -1,11 +1,11 @@
 # VsCode-Settings
 
-### contents
+### Contents
 - [VsCode-Settings](#vscode-settings)
-    - [contents](#contents)
+    - [Contents](#contents)
   - [Welcome](#welcome)
     - [My VS Code use case and history](#my-vs-code-use-case-and-history)
-  - [Extensions help extend the functionality of VS Code and sometimes even add new functionality. Below, I will go into detail about the extensions I use.](#extensions-help-extend-the-functionality-of-vs-code-and-sometimes-even-add-new-functionality-below-i-will-go-into-detail-about-the-extensions-i-use)
+  - [Extensions](#extensions)
     - [Markdown and writing](#markdown-and-writing)
       - [Markdown all in 1](#markdown-all-in-1)
       - [LtX](#ltx)
@@ -18,7 +18,7 @@
       - [Live server](#live-server)
     - [getting my settings](#getting-my-settings)
       - [Downloading settings sync extension](#downloading-settings-sync-extension)
-    - [Settings sync setup](#settings-sync-setup)
+      - [Settings sync setup](#settings-sync-setup)
 
 ## Welcome
 Welcome to my VS Code settings repo. Here you can learn about the different settings and configurations I like to use for VS Code and get them for yourself. I will also give some explanation on why I like certain settings and extensions.
@@ -26,7 +26,8 @@ Welcome to my VS Code settings repo. Here you can learn about the different sett
 ### My VS Code use case and history
 I started to use VS Code the first day I knew about it and have used exclusively for the past 2 years. Over this time, my usage has expanded from just writing code in the beginning and now doing crazy things like managing the entire git process and even collaborating with colleegs using an extension called liveshare. The early days for accessibility were interesting and filled with many bugs but thanks to Microsoft's commitment to accessibility and the open-source community, it is the best editor for those who rely on screen readers. Today, I use VS Code for all sorts of things ranging from writing this documentation, writing, and running python, running a live web server, and so much more. The nice thing is that it is so simple but can be expanded thanks to the amazing extension library present.
 
-## Extensions help extend the functionality of VS Code and sometimes even add new functionality. Below, I will go into detail about the extensions I use.
+## Extensions 
+These help extend the functionality of VS Code and sometimes even add new functionality. Below, I will go into detail about the extensions I use.
 
 ### Markdown and writing
 I write markdown daily. In fact, I am writing markdown as we speak for this documentation. I like it because of the simplicity and the accessibility. While Markdown is easy to write, I use the following extensions to help me write better Markdown and ensure it is readable.
@@ -67,14 +68,14 @@ If these extensions and configurations sound apealing and you want to use them, 
 5. Tab until you here install. This should be the first thing you come across.
 6. Wait until the extension is installed and reload by pressing alt+f4.
 
-### Settings sync setup
+#### Settings sync setup
 when you first return to VS Code, you will see a welcome page for settings sync. We will ignore this. Instead, we will download my settings from GitHub.
 1. Locate the command pallet by pressing CTRL+shift+p. The command pallet is powerful because it gives you all the possible options available in VS Code.
 2. Type advanced into the command pallet. You should see an option sync: show advanced settings, and you will want to press enter to activate it.
 3. now that you are in the advanced settings, you can use your arrows to find an option titled download from public gist.
-4. You should be prompted for the id of the gist you want to download. Please enter “a4a6b62baca1e775a4759102db0b99dc.” excluding the quotes.
-5. You should be all set, and VS Code will start installing my settings.
-
+4. You should be prompted for the id of the gist you want to download. Please enter “” excluding the quotes.
+5. You should be all set, and VS Code will start installing my settings..
+ 
 
 
 
