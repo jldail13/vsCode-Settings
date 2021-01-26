@@ -85,18 +85,4 @@ If these extensions and configurations sound apealing and you want to use them, 
 6. Wait until the extension is installed and reload by pressing alt+f4.
 
 #### Settings sync setup
-when you first return to VS Code, you will see a welcome page for settings sync. We will ignore this. Instead, we will download my settings from GitHub.
-1. Locate the command pallet by pressing CTRL+shift+p. The command pallet is powerful because it gives you all the possible options available in VS Code.
-2. Type advanced into the command pallet. You should see an option sync: show advanced settings, and you will want to press enter to activate it.
-3. now that you are in the advanced settings, you can use your arrows to find an option titled download from public gist.
-4. You should be prompted for the id of the gist you want to download. Please enter “” excluding the quotes.
-5. You should be all set, and VS Code will start installing my settings..
- 
-
-
-
-
-
-
-
-
+when you first return to VS Code, you will see a welcome page for settings sync. We will find the link that says download public gist and enter the folllowing id excluding the quotes "0e89115e50534c3f3f57e94875ff7fa9". From this point, you should be installing the settings. You will need to reload to activate. Finally, you should be all set to go.
