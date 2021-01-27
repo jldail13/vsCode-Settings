@@ -21,6 +21,7 @@
     - [getting my settings](#getting-my-settings)
       - [Downloading settings sync extension](#downloading-settings-sync-extension)
       - [Settings sync setup](#settings-sync-setup)
+  - [Other resources](#other-resources)
 
 ## Welcome
 Welcome to my VS Code settings repo. Here you can learn about the different settings and configurations I like to use for VS Code and get them for yourself. I will also give some explanation on why I like certain settings and extensions.
@@ -86,3 +87,9 @@ If these extensions and configurations sound apealing and you want to use them, 
 
 #### Settings sync setup
 when you first return to VS Code, you will see a welcome page for settings sync. We will find the link that says download public gist and enter the folllowing id excluding the quotes "0e89115e50534c3f3f57e94875ff7fa9". From this point, you should be installing the settings. You will need to reload to activate. Finally, you should be all set to go.
+If you are on a mac, you will enter the id "c67010a9c9fde000dad8d32a30b650a2" excluding the quotes.
+
+## Other resources
+Here are some other resources of interest which may be helpful as you learn about VS Code.
+Windows Shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+Mac Shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
